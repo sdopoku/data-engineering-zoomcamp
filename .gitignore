@@ -219,3 +219,6 @@ __marimo__/
 
 # Parquet files
 *.parquet
+
+# DS_Store
+.DS_Store
